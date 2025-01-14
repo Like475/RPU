@@ -1,3 +1,3 @@
 # RPU - Redstone Process Unit
-Репозиторий проекта, цель которого является создание полноценного процесорра на редстоуне в Майнкрафт 1.20.4
-Данный проект полностью совместим с [BatPU-2](https://github.com/mattbatwings/BatPU-2) и являтся его форком
+Repository of the project, which aims to create a full-fledged redstone processor in Minecraft 1.20.4
+This project is fully compatible with [BatPU-2](https://github.com/mattbatwings/BatPU-2) and is a fork of it.
